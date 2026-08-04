@@ -1,0 +1,9 @@
+# Ignore raw data files inside the Data folder
+Data/*
+!Data/.gitkeep
+
+# Ignore temporary Python / Jupyter files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
