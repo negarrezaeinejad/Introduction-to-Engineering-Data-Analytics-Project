@@ -1,5 +1,5 @@
 # Ignore raw data files inside the Data folder
-Data/*
+.gitkeep
 !Data/.gitkeep
 
 # Ignore temporary Python / Jupyter files
