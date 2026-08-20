@@ -1,4 +1,3 @@
-```markdown
 # Introduction to Engineering Data Analytics - Group 34 Final Project
 
 ## Project Overview
@@ -81,7 +80,3 @@ The terminal will spin up a local server, and the dashboard will automatically o
 ---
 
 **Data Path Note:** The Streamlit application (`SoSe26_Case_Study_App_Group_34.py`) uses relative file paths. It will automatically look for the required dataset (`SoSe26_Case_Study_finalData_Group_34.csv`) inside the `data/` folder, ensuring it runs seamlessly upon extraction.
-
-```
-
-```
